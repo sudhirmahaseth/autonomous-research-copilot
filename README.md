@@ -1,0 +1,2 @@
+# autonomous-research-copilot
+A Multi-Agent Research Platform built using LangGraph, FAISS, and OpenAI.
