@@ -1,7 +1,4 @@
-langchain
-langchain-openai
+streamlit
+openai
 langgraph
-faiss-cpu
-tiktoken
-pydantic
-python-dotenv
+
